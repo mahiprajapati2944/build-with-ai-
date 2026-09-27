@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse - Event LinkedIn Generator & Live Reach Engine",
+  "description": "Event LinkedIn post generator and live reach engine for attendees and conference organizers with verified templates and real-time amplification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
